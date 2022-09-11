@@ -1,0 +1,13 @@
+name: diffusion-experiments-noise-iterations
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - ipykernel
+  - matplotlib
+  - seaborn
+  - numpy
+  - pillow
+  - tqdm
